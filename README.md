@@ -2,9 +2,7 @@
 <img src="images/teaser_revised.png" width="600">
 </p>
 
-**Figure 1: revised teaser.** 
-- **Top**: Static inference with frozen LVLMs exhibits prompt and perturbation sensitivity on rare pathologies, leading to unstable and hallucinated localizations. 
-- **Bottom**: DDL performs test-time prompt optimization and multi-view verification, yielding substantially more stable and reliable localizations.
+**Figure 1: revised teaser.** **Top**: Static inference with frozen LVLMs exhibits prompt and perturbation sensitivity on rare pathologies, leading to unstable and hallucinated localizations. **Bottom**: DDL performs test-time prompt optimization and multi-view verification, yielding substantially more stable and reliable localizations.
 
 ---
 
